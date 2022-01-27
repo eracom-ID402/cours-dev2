@@ -1,12 +1,12 @@
 # Développement d’interfaces 2 – CSS
 
 Dates: du 28 janvier au 24 juin  
-Horaire: vendredi – 11h00 à 12h30  
+Horaire: vendredi – 12h45 à 14h15  
 Classe: ID402  
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
-Lien: [https://eracom-id402.github.io/cours-dev2-css/](https://eracom-id401.github.io/cours-dev2-css/)
+Lien: [https://eracom-id402.github.io/cours-dev2-css/](https://eracom-id402.github.io/cours-dev2-css/)
 
 ## Introduction
 
