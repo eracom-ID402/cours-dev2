@@ -1,7 +1,7 @@
 # Développement d’interfaces 2 – CSS
 
 Dates: du 28 janvier au 24 juin  
-Horaire: vendredi – 12h45 à 14h15  
+Horaire: vendredi – 14h30 à 16h00 (2 périodes) 
 Classe: ID402  
 Acronyme cours: EEDEV  
 Catégorie: Elaboration du design  
@@ -53,9 +53,9 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 
 ### Chapitre 3 : Médias
 
-- [Audio et Video](audio-video.html) (25 mars)
-- SVG, format vectoriel du web (01 avril)
-- Standards du web (08 avril)
+- Standards du web (25 mars)
+- [Audio et Video](audio-video.html) (01 avril)
+- SVG, format vectoriel du web (08 avril)
 
 Le 15 avril aura lieu la deuxième évaluation.
 

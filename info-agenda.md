@@ -17,9 +17,9 @@ Agenda du cours:
 | 04 mars | Evaluation #1     |                   |
 | 11 mars | GIT 1/2           |                   |
 | 18 mars | GIT 2/2           |                   |
-| 25 mars | Audio / vidéo     |      |
-| 01 avr  | SVG               |     |
-| 08 avr  | Standards               |     |
+| 25 mars | Standards         |      |
+| 01 avr  | Audio / vidéo     |     |
+| 08 avr  | SVG               |     |
 | 15 avr  | Evaluation #2     |                   |
 |         | Vacances          |                   |
 | 06 mai  | A11Y              |     |
