@@ -10,7 +10,7 @@ permalink: units.html
 
 ## Unités CSS
 
-> Pour travailler sur de bonnes bases, ce cours vous propose de faire un tour des unités CSS les plus utilisées. Ce cours consiste en une série d'exemples de code.
+> Pour travailler sur de bonnes bases, cette leçon vous propose de faire un tour des **unités CSS** les plus utilisées.
 
 Votre objectif: 
 
