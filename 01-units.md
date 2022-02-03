@@ -30,7 +30,7 @@ Votre objectif:
 - Comprendre comment fonctionnent les différentes unités fondamentales du CSS.
 - Appliquer ces méthodes sur votre site en construction.
 
-Les thèmes à traiter (indispensable):
+Les thèmes à traiter (prioritaire):
 
 - Unité % : ce qu'elle signifie en CSS
 - Unités typographiques (em, ex, ch, rem)
