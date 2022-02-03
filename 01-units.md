@@ -4,11 +4,24 @@ title: Unités CSS
 permalink: units.html
 ---
 
-# Cours du 4 février 2022
+# Session du 4 février 2022
+
+Cette leçon est donné par Mme Hélène Portier.
 
 ⚠️ **Avant tout:** finir le Challenge 1 (création de page HTML). [Lien du Challenge 1 dans Teams](https://teams.microsoft.com/l/message/19:5KxYubRu6qefJwxxLanvePy_HSUtTSrd1M82wqusAPU1@thread.tacv2/1643378414956?tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1&groupId=df98c2af-c032-4bbd-b092-72c9c422b5fd&parentMessageId=1643378414956&teamName=ERACOM_ID402_EEDEV2_Teams&channelName=G%C3%A9n%C3%A9ral&createdTime=1643378414956).
 
-## Unités CSS
+## Structure de la leçon 
+
+| Timing    | Tâches           |
+|:-------   |:----------------- |
+| 14:30 | Finir Challenge #1 + envoyer dans teams.    |
+| 14:45 | Travail individuel: étudier les sujets du jour + les appliquer sur son site.  |
+| 15:05 | Mise en commun, explications  | 
+| 15:25 | Travail individuel, codage du Challenge #2   | 
+| 15:45 | Fin de session: envoi du Challenge 2, rédiger la documentation personnelle | 
+
+
+## Le thème du jour: Unités CSS
 
 > Pour travailler sur de bonnes bases, cette leçon vous propose de faire un tour des **unités CSS** les plus utilisées.
 
