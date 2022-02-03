@@ -10,13 +10,12 @@ permalink: units.html
 
 ## Unités CSS
 
-Pour travailler sur de bonnes bases, ce cours vous propose de faire un tour des unités CSS les plus utilisées. 
-Ce cours consiste en une série d'exemples de code. Utilisez-les pour comprendre 
+> Pour travailler sur de bonnes bases, ce cours vous propose de faire un tour des unités CSS les plus utilisées. Ce cours consiste en une série d'exemples de code.
 
 Votre objectif: 
 
-- comprendre comment fonctionnent les différentes unités disponibles en CSS.
-- appliquer cela sur votre site en construction.
+- Comprendre comment fonctionnent les différentes unités fondamentales du CSS.
+- Appliquer ces méthodes sur votre site en construction.
 
 Les thèmes à traiter (indispensable):
 
@@ -37,7 +36,7 @@ Exemple: [https://codepen.io/eracom/pen/YzEWPzE](https://codepen.io/eracom/pen/Y
 
 Référence MDN: [https://developer.mozilla.org/fr/docs/Web/CSS/percentage](https://developer.mozilla.org/fr/docs/Web/CSS/percentage)
 
-⚠️ **À retenir:** pour les longueurs, fonctionnement différent en horizontal et en vertical.
+⚠️ **À retenir:** pour les longueurs, fonctionne en horizontal, mais pas en vertical.
 
 ### Les unités typographiques (em, ex, ch, rem)
 
@@ -61,9 +60,7 @@ Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-## Challenge No 2
-
-Apportez à votre site web des améliorations!
+## Challenge No 2 : Apportez à votre site web des améliorations!
 
 Améliorations suggérées (ce n'est pas obligatoire de *tout* faire):
 
@@ -96,6 +93,6 @@ Vous pouvez utiliser l'un des logiciels suivants:
 
 ## Ressources
 
-- Documentation [Unités CSS](https://cours-web.ch/css/units.html)
+- Documentation MDN: [Valeurs et unités CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/Values_and_units)
+- Documentation Cours-Web.ch: [Unités CSS](https://cours-web.ch/css/units.html)
 - La spécification W3C: [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
-- Documentation MDN : [Valeurs et unités CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/Values_and_units)
