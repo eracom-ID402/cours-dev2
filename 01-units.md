@@ -8,20 +8,26 @@ Cours du 4 février 2022
 
 ## Unités CSS
 
-Ce cours consiste en une série d'exemples de code. Votre objectif: 
+Pour travailler sur de bonnes bases, ce cours vous propose de faire un tour des unités CSS les plus utilisées. 
+Ce cours consiste en une série d'exemples de code. Utilisez-les pour comprendre 
+
+Votre objectif: 
 
 - comprendre comment fonctionnent les différentes unités disponibles en CSS.
 - appliquer cela sur votre site en construction.
 
-Les thèmes à traiter:
+Les thèmes à traiter (indispensable):
 
 - Unité % : ce qu'elle signifie en CSS
 - Unités typographiques (em, ex, ch, rem)
 - Unités relatives au viewport (vw, vh, vmin, vmax)
-- Fonction CSS : calc()
-- Fonctions CSS : min(), max(), clamp()
-- Variables CSS
 - Flexbox : rappel du fonctionnement
+
+Pour aller plus loin (optionnel):
+
+- Fonction CSS : calc()
+- [Fonctions CSS : min(), max(), clamp()](clamp.html)
+- Variables CSS
 
 ### L'unité pourcentage (%)
 
@@ -29,13 +35,19 @@ Exemple: [https://codepen.io/eracom/pen/YzEWPzE](https://codepen.io/eracom/pen/Y
 
 Référence MDN: [https://developer.mozilla.org/fr/docs/Web/CSS/percentage](https://developer.mozilla.org/fr/docs/Web/CSS/percentage)
 
-⚠️ À retenir: pour les longueurs, fonctionnement différent en horizontal et en vertical.
+⚠️ **À retenir:** pour les longueurs, fonctionnement différent en horizontal et en vertical.
 
 ### Les unités typographiques (em, ex, ch, rem)
 
 Exemple: [https://codepen.io/eracom/pen/GROqpwO](https://codepen.io/eracom/pen/GROqpwO?editors=1000)
 
-⚠️ À retenir: le fonctionnement de `em` et `rem`, unités fréquemment utilisées.
+⚠️ **À retenir:** le fonctionnement de `em` et `rem`, unités fréquemment utilisées.
+
+### Les unités relatives au viewport (vw, vh, vmin, vmax)
+
+Exemple [https://codepen.io/eracom/pen/LYOZQVB](https://codepen.io/eracom/pen/LYOZQVB?editors=1100)
+
+- Un article d'Ahmad Shadeed: [https://ishadeed.com/article/viewport-units/](https://ishadeed.com/article/viewport-units/), qui donne des exemples d'application.
 
 ### Exemple complet:
 
@@ -53,10 +65,10 @@ Apportez à votre site web des améliorations!
 
 Améliorations suggérées:
 
-- Donnez une hauteur minimum au header (avec vh).
-- Centrez le titre à l'intérieur du header (avec flexbox).
-- Alignez la liste avec Flexbox.
-- Produisez une typographie "responsive" avec clamp().
+- Définir les tailles des fontes.
+- Donner une hauteur minimum au header (avec vh).
+- Centrer le titre à l'intérieur du header (avec flexbox).
+- Aligner la liste avec Flexbox.
 
 
 ## Ne pas oublier
