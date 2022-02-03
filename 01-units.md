@@ -4,7 +4,9 @@ title: Unités CSS
 permalink: units.html
 ---
 
-Cours du 4 février 2022
+# Cours du 4 février 2022
+
+⚠️ **Avant tout:** finir le Challenge 1 (création de page HTML). [Lien du Challenge 1 dans Teams](https://teams.microsoft.com/l/message/19:5KxYubRu6qefJwxxLanvePy_HSUtTSrd1M82wqusAPU1@thread.tacv2/1643378414956?tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1&groupId=df98c2af-c032-4bbd-b092-72c9c422b5fd&parentMessageId=1643378414956&teamName=ERACOM_ID402_EEDEV2_Teams&channelName=G%C3%A9n%C3%A9ral&createdTime=1643378414956).
 
 ## Unités CSS
 
@@ -63,28 +65,33 @@ Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/
 
 Apportez à votre site web des améliorations!
 
-Améliorations suggérées:
+Améliorations suggérées (ce n'est pas obligatoire de *tout* faire):
 
 - Définir les tailles des fontes.
 - Donner une hauteur minimum au header (avec vh).
 - Centrer le titre à l'intérieur du header (avec flexbox).
 - Aligner la liste avec Flexbox.
 
+Transmettre dans Teams:
 
-## Ne pas oublier
+- Le lien
+- Indiquer quels modifications vous avez apporté.
+
+## Ne pas oublier ☝️
 
 Votre documentation personnelle:
 
-- Notes ce que vous avez-vous appris aujourd'hui.
-- Notez les références qui vous ont aidé.
+- Noter ce que vous avez appris aujourd'hui.
+- Noter les références qui vous ont aidé.
 
-Pour rédiger votre documentation personnelle, vous pouvez utiliser l'un des logiciels suivants:
+Vous pouvez utiliser l'un des logiciels suivants:
 
 - [Notion](https://www.notion.so/)
-- Bear
-- Apple Notes
+- [Bear](https://bear.app/)
+- [Craft](https://www.craft.do/)
 - [Google Keep](https://keep.google.com/)
 - [Google Docs](https://docs.google.com/)
+- Apple Notes
 - [Simplenote](https://app.simplenote.com/)
 
 ## Ressources
