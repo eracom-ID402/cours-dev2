@@ -8,9 +8,9 @@ Cours du 4 février 2022
 
 ## Unités CSS
 
-Ce cours consiste en une série d'exemples de code. L'objectif: 
+Ce cours consiste en une série d'exemples de code. Votre objectif: 
 
-- est de comprendre comment fonctionnent les différentes unités disponibles en CSS.
+- comprendre comment fonctionnent les différentes unités disponibles en CSS.
 - appliquer cela sur votre site en construction.
 
 Les thèmes à traiter:
@@ -25,19 +25,21 @@ Les thèmes à traiter:
 
 ### L'unité pourcentage (%)
 
-Le pourcentage, en CSS, est souvent utilisé pour spécifier la taille d'une 
-
 Exemple: [https://codepen.io/eracom/pen/YzEWPzE](https://codepen.io/eracom/pen/YzEWPzE?editors=1100)
 
 Référence MDN: [https://developer.mozilla.org/fr/docs/Web/CSS/percentage](https://developer.mozilla.org/fr/docs/Web/CSS/percentage)
+
+⚠️ À retenir: pour les longueurs, fonctionnement différent en horizontal et en vertical.
 
 ### Les unités typographiques (em, ex, ch, rem)
 
 Exemple: [https://codepen.io/eracom/pen/GROqpwO](https://codepen.io/eracom/pen/GROqpwO?editors=1000)
 
+⚠️ À retenir: le fonctionnement de `em` et `rem`, unités fréquemment utilisées.
+
 ### Exemple complet:
 
-Un exemple qui combine toutes ces fonctionalités : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
+Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="VwrarYa" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/eracom/pen/VwrarYa">
@@ -51,19 +53,18 @@ Apportez à votre site web des améliorations!
 
 Améliorations suggérées:
 
-- Donnez une hauteur minimum au header.
-- Centrez le titre à l'intérieur du header.
-- Alignez la liste avec Flexbox
-- Produisez une typographie "responsive" avec clamp()
+- Donnez une hauteur minimum au header (avec vh).
+- Centrez le titre à l'intérieur du header (avec flexbox).
+- Alignez la liste avec Flexbox.
+- Produisez une typographie "responsive" avec clamp().
 
 
 ## Ne pas oublier
 
-Votre documentation personnelle 
+Votre documentation personnelle:
 
-- Qu'avez-vous appris aujourd'hui ?
-- Référence unités CSS
-- Référence Flexbox
+- Notes ce que vous avez-vous appris aujourd'hui.
+- Notez les références qui vous ont aidé.
 
 Pour rédiger votre documentation personnelle, vous pouvez utiliser l'un des logiciels suivants:
 
