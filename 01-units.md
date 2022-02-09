@@ -104,7 +104,7 @@ Vous pouvez utiliser l'un des logiciels suivants:
 - Apple Notes
 - [Simplenote](https://app.simplenote.com/)
 
-Votre documentation sera vérifiée et comptera pour le test du 4 mars.
+⚠️ Votre documentation sera vérifiée et comptera pour le test du 4 mars.
 
 ## Ressources
 
