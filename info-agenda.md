@@ -25,10 +25,10 @@ Agenda du cours:
 |  6 mai  | A11Y              |     |
 | 13 mai  | Input Forms       |      |
 | 20 mai  | Generated Content |     |
-| 27 mai  | CSS Transforms    |      |
+| 27 mai  | *Ascension*     |      |
 |  3 juin | **Evaluation #3**     |                   |
 | 10 juin | CSS Animations    |      |
-| 17 juin | CSS Shapes        |                   |
+| 17 juin | CSS Transforms        |                   |
 | 24 juin | Debrief           |                   |
 
 
