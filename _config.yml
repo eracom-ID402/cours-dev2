@@ -7,7 +7,7 @@ robots: noindex, nofollow
 # menu 
 chapters:
  - title: Cours Dev 2
-   url: https://id402.ch/cours-dev2/
+   url: https://id402.ch/cours-dev2-css/
  - title: Référence CSS
    url: https://cours-web.ch/css/
 # - title: Infos IMD
@@ -24,4 +24,4 @@ chapters:
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
   <li>2017-2022</li></ul>
-footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom-id402/cours-dev2">Lien Github</a></li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom-id402/cours-dev2-css">Lien Github</a></li></ul>
