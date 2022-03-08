@@ -53,27 +53,25 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 
 ### Chapitre 3 : Médias
 
-- Standards du web (25 mars)
-- [Audio et Video](audio-video.html) (01 avril)
-- SVG, format vectoriel du web (08 avril)
+- Audio et Video (25 mars)
+- SVG, format vectoriel du web (1er avril)
 
-Le 15 avril aura lieu la deuxième évaluation.
+Le 8 avril aura lieu la deuxième évaluation.
 
 ### Chapitre 4 : A11Y
 
 Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
 
-- [A11Y](a11y.html) (6 mai)
-- [Input Forms](input-forms.html) (13 mai)
+- A11Y (6 mai)
+- Input Forms (13 mai)
 
 ### Chapitre 5 : la magie du CSS
 
 Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons des modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
 
-- [Generated Content](generated-content.html) (20 mai)
-- [CSS Transforms](css-transforms.html) (27 mai)
-- [CSS Animations]() (10 juin)
-- [CSS Shapes](css-shapes.html) (17 juin)
+- Generated Content (20 mai)
+- CSS Animations (10 juin)
+- CSS Transforms (17 juin)
 
 Le 3 juin aura lieu la troisième évaluation.
 
