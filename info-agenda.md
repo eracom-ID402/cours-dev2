@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INFO – Agenda
+title: ℹ️ Agenda
 permalink: agenda.html
 ---
 

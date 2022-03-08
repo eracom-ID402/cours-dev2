@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INFO – Evaluations
+title: ℹ️ Evaluations
 permalink: evaluations.html
 ---
 
