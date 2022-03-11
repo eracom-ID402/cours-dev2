@@ -96,67 +96,14 @@ L’utilisation standard de Git se passe comme suit :
 2. vous **indexez** (*stage*) les fichiers modifiés, ce qui ajoute des instantanés de ces fichiers dans la zone d’index (état = indexé).
 3. vous **validez** (*do a commit*), ce qui a pour effet de basculer les instantanés des fichiers de l’index dans la base de données du répertoire Git (état = validé).
 
-### Quelques termes et commandes
+## Le Challenge #4
 
-Les clips vidéo proviennent de la présentation *[Git is Science-Fiction](https://wordpress.tv/2015/12/13/morten-rand-hendriksen-github-for-the-rest-of-us/)*, par Morten Rand-Hendriksen.
+Publier votre site sur Github, dans l'organisation ID402. Pour cela:
 
-`repository`
-
-C'est un dossier de travail géré avec Git. Le dossier où se trouvent tous les fichiers. Il peut s'agir d'un repository **local** (sur votre ordinateur) ou **distant** (*remote*) - par exemple sur Github.
-
-<video width="640" height="360" controls>
-  <source src="video/repo.mp4" type="video/mp4">
-</video>
-
-`git commit`
-
-Ajoute un **commit** (instantané) comprenant toutes les modifications indexées.
-
-<video width="640" height="360" controls>
-  <source src="video/git-commit.mp4" type="video/mp4">
-</video>
-
-`git branch <nombranche> [<commit>]`
-
-Crée une **branche** sous ce nom qui démarre au commit actuel (ou au commit que vous aurez spécifié, si vous avez indiqué un ID de commit).
-
-<video width="640" height="360" controls>
-  <source src="video/git-branch.mp4" type="video/mp4">
-</video>
-
-`git merge <autrebranche>`
-
-**Fusionne** "autrebranche" dans la branche actuelle, s'il n'y a pas de conflit. En cas de conflit, vous devez le résoudre (décider quelle version conserver).
-
-<video width="640" height="360" controls>
-  <source src="video/merge-conflict.mp4" type="video/mp4">
-</video>
-
-#### push, pull, fetch
-
-`git push`
-
-Pousse l'état actuel de "nombranche" dans le repository distant.
-
-`git fetch`
-
-Copie tout le contenu du repository distant vers votre copie locale.
-
-<video width="640" height="360" controls>
-  <source src="video/push-pull.mp4" type="video/mp4">
-</video>
-
-`git pull`
-
-Copie tout le contenu du repository distant vers votre copie locale (comme `fetch`), **et** tente de le **fusionner** (`merge`) dans votre branche actuelle.
-
-`readme.md`
-
-Le README est un fichier standard se trouvant à la base de votre repository. Github va afficher automatiquement son contenu. Le contenu peut être écrit en syntaxe "[Markdown](https://cours-web.ch/markdown/)", d'où la terminaison "md".
-
-`.gitignore`
-
-Permet de spécifier des fichiers qui doivent être ignorés - des images TIFF, PSD, des fichiers temporaires, des fichiers cachés de MacOS...
+1. Créez un utilisateur sur Github.
+2. Rejoignez l'organisation eracom-ID402: [https://github.com/eracom-id402](https://github.com/eracom-id402)
+3. Installez Github Desktop: [https://desktop.github.com/](https://desktop.github.com/)
+4. Faites un "Push" de votre repository vers Github, pour le rendre public.
 
 ## Liens utiles: 
 
