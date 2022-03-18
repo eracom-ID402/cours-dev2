@@ -12,23 +12,24 @@ Deuxième volet du cours sur GIT.
 
 Git est très utilisé dans le domaine du design typographique. Exemples: chez Google Fonts, chaque fonte est gérée dans Github. Des fonderies digitales (Velvetyne, OSP) ont souvent recours à Git pour le versionnage:
 
-- Velvetyne Type Foundry: https://www.velvetyne.fr/
-- Dépôt de la fonte Compagnon: https://gitlab.com/velvetyne/compagnon
-- Dépôt de la fonte Façade: https://github.com/eleonorefines/Facade-font
-- Open Source Publishing (OSP): https://osp.kitchen/foundry/
-- Dépôt de la fonte Google Fonts Space Grotesk: https://github.com/floriankarsten/space-grotesk
+- Velvetyne Type Foundry: [https://www.velvetyne.fr/](https://www.velvetyne.fr/)
+- Dépôt de la fonte *Compagnon*: [https://gitlab.com/velvetyne/compagnon](https://gitlab.com/velvetyne/compagnon)
+- Dépôt de la fonte *Façade*: [https://github.com/eleonorefines/Facade-font](https://github.com/eleonorefines/Facade-font)
+- Google Fonts: Dépôt de *Space Grotesk*: [https://github.com/floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk)
 
 ## Petits détails: README et .gitignore
 
 ### Le README
 
-Ce fichier permet d'avoir une "Page de présentation" sur Github. Voir les exemples des fontes Façade et Space Grotesk ci-dessus.
+Ce fichier permet d'avoir une "Page de présentation" sur Github. Voir les exemples des fontes *Façade* et *Space Grotesk* ci-dessus.
 
-Il faut créer un fichier nommé README.md. Le formatage se fait dans la syntaxe Markdown - voir [la documentation Markdown](https://cours-web.ch/markdown/).
+Il faut créer un fichier nommé `README.md`. Le formatage se fait dans la syntaxe *Markdown* - voir [la documentation Markdown](https://cours-web.ch/markdown/).
 
 ### Le .gitignore
 
-Ce fichier permet de désigner tout ce que Git doit "ignorer".  
+Le fichier `.gitignore` est un fichier optionnel, situé à la racine de votre projet, qui permet de désigner tout ce que Git doit "ignorer". 
+
+Cela comprend généralement des fichiers temporaires créés par certains logiciels, ou des fichiers système comme [.DS_Store](https://fr.wikipedia.org/wiki/.DS_Store) (sur MacOS), [Thumbs.db](https://fr.wikipedia.org/wiki/Thumbs.db) ou Desktop.ini (systèmes Windows).
 
 Exemple, [le .gitignore du Repository de Space Grotesk](https://github.com/floriankarsten/space-grotesk/blob/master/.gitignore):
 
@@ -48,24 +49,22 @@ Exemple, [le .gitignore du Repository de Space Grotesk](https://github.com/flori
 
 ## Sujet important: les branches
 
-Fonctionnalité très importante: Git vous permet de créer des branches, qui sont des "versions parallèles" d'un projet.
+Une fonctionnalité très importante: Git vous permet de créer des **branches**, qui sont des "versions parallèles" d'un projet.
 
-On peut:
+Git permet de:
 
 - Passer facilement d'une branche à l'autre.
 - Fusionner des branches : commande "git merge".
 
-On est libre de choisir la manière de travailler et d'utiliser les branches. Chaque fonctionnalité nouvelle peut être gérée dans une branche pour être isolée du projet "stable".
+On est libre de choisir la manière de travailler et d'utiliser les branches. Par exemple: chaque fonctionnalité nouvelle peut être gérée dans une branche dédiée, pour être isolée du projet "stable".
 
-Chaque projet git commence avec une branche principale, à laquelle Github donne le nom "main" par défaut. Jusqu'en 2020, ce nom par défaut était "master" – ce terme historiquement connoté a été changé en réponse au mouvement social "Black Lives Matter".
-
-
+Chaque projet git commence avec une branche principale, à laquelle Github donne le nom `main` par défaut. Jusqu'en 2020, ce nom par défaut était `master`. Ce terme historiquement connoté a été changé en réponse au mouvement social "Black Lives Matter".
 
 ## Le Challenge #5
 
 Le but de ce challenge est de pratiquer la collaboration avec Github :
 
-- Définissez une amélioration à apporter.
+- Définissez une (ou plusieurs) amélioration(s) à apporter.
 - Ecrivez ce que vous souhaitez dans l'onglet *Issues*.
 - Vous allez tenter de résoudre une *issue* d'une autre personne.
 
@@ -76,7 +75,9 @@ Procédure Github:
 - Faites de votre mieux pour remplir la demande.
 - Faites une Pull Request vers le projet original.
 
-Dans le devoir, envoyez-moi **le lien vers la Pull Request**. Vous le trouvez dans l'onglet "Pull Requests" du projet Github. Exemple d'une Pull Request (sur la fonte typographique Karmilla): [https://github.com/ms-studio/karmilla/pull/57](https://github.com/ms-studio/karmilla/pull/57)
+Dans le devoir, envoyez-moi **le lien vers la Pull Request**. Vous le trouvez dans l'onglet "Pull Requests" du projet Github. Exemple d'une Pull Request (sur la fonte typographique Karmilla): [https://github.com/ms-studio/karmilla/pull/57](https://github.com/ms-studio/karmilla/pull/57).
+
+Ce devoir devrait être réalisé au plus tard le 8 avril.
 
 
 ## Liens utiles: 
