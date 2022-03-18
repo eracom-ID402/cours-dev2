@@ -60,7 +60,7 @@ On est libre de choisir la manière de travailler et d'utiliser les branches. Pa
 
 Chaque projet git commence avec une branche principale, à laquelle Github donne le nom `main` par défaut. Jusqu'en 2020, ce nom par défaut était `master`. Ce terme historiquement connoté a été changé en réponse au mouvement social "Black Lives Matter".
 
-## Le Challenge #5
+## Le Challenge N° 5
 
 Le but de ce challenge est de pratiquer la collaboration avec Github :
 
