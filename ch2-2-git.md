@@ -10,7 +10,7 @@ Deuxième volet du cours sur GIT.
 
 ### La profession du Type Design (design de fontes typographiques)
 
-Git est très utilisé dans le domaine du design typographique. Exemples: chez Google Fonts, chaque fonte est gérée dans Github. Des fonderies digitales (Velvetyne, OSP) ont souvent recours à Git pour le versionnage:
+Git est très utilisé dans le domaine du design typographique. Exemples: chez Google Fonts, chaque fonte est gérée dans Github. Des fonderies digitales (Velvetyne, OSP) ont souvent recours à Git pour le versionnage. Voici des exemples:
 
 - Velvetyne Type Foundry: [https://www.velvetyne.fr/](https://www.velvetyne.fr/)
 - Dépôt de la fonte *Compagnon*: [https://gitlab.com/velvetyne/compagnon](https://gitlab.com/velvetyne/compagnon)
