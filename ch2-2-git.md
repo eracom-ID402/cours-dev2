@@ -17,7 +17,7 @@ Git est très utilisé dans le domaine du design typographique. Exemples: chez G
 - Dépôt de la fonte *Façade*: [https://github.com/eleonorefines/Facade-font](https://github.com/eleonorefines/Facade-font)
 - Google Fonts: Dépôt de *Space Grotesk*: [https://github.com/floriankarsten/space-grotesk](https://github.com/floriankarsten/space-grotesk)
 
-## Petits détails: README et .gitignore
+## Petits détails: README et .gitignore
 
 ### Le README
 
