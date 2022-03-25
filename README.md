@@ -43,12 +43,12 @@ Le 4 mars aura lieu une première évaluation.
 Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du web: il s'agit de [GIT](https://cours-web.ch/git/), un logiciel de versionnage.
 
 - [GIT : Introduction](git1.html) (11 mars)
-- GIT : Collaborer avec Git (18 mars)
+- [GIT : Collaborer avec Git](git2.html) (18 mars)
 
 
 ### Chapitre 3 : Médias
 
-- Audio et Video (25 mars)
+- [Audio et Video](audio-video.html) (25 mars)
 - SVG, format vectoriel du web (1er avril)
 
 Le 8 avril aura lieu la deuxième évaluation.
