@@ -22,8 +22,8 @@ Agenda du cours:
 |  8 avril | **Evaluation #2** |     |
 | 15 avril | *Vacances*          |                   |
 |         | *Vacances*          |                   |
-|  6 mai  | A11Y              |     |
-| 13 mai  | Input Forms       |      |
+|  6 mai  | Sélecteurs              |     |
+| 13 mai  | Spécificité       |      |
 | 20 mai  | Generated Content |     |
 | 27 mai  | *Ascension*     |      |
 |  3 juin | **Evaluation #3**     |                   |
