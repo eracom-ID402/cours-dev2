@@ -4,9 +4,9 @@ title: ℹ️ Evaluation 2
 permalink: evaluation-2.html
 ---
 
-Information sur l'évaluation du 8 mars.
+Information sur l'évaluation du 8 mars 2022.
 
-Cette 2eme évaluation de ce cours porte sur les éléments suivants:
+Cette 2<sup>ème</sup> évaluation porte sur les éléments suivants:
 
 1. 👩‍💻 Réaliser l'exercice "Git et vidéo"  - 6pts
 2. 💪 Réaliser les challenges 4 et 5 - 4pts
