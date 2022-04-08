@@ -24,6 +24,8 @@ En suivant ce lien, une copie individuelle du projet sera créée. Ensuite:
 - Ouvrez le code avec votre éditeur (comd+maj+A).
 - Lisez les trois améliorations à apporter, qui sont indiquées dans le README.MD
 
+Une fois le travail effectué, n'oubliez pas de faire un *push* pour que vos changements soient sur Github.
+
 ## 2) Challenges
 
 ### Challenge #4 – Git Push
