@@ -26,11 +26,11 @@ En suivant ce lien, une copie individuelle du projet sera créée. Ensuite:
 
 ## 2) Challenges
 
-### Challenge #4 – Git Push
+### Challenge #4 – Git Push
 
 Publier votre site sur Github, dans [l'organisation ID402](https://github.com/eracom-id402). Etat au 8 avril: Réalisé à 100% par tous les élèves.
 
-### Challenge #5 – Issues
+### Challenge #5 – Issues
 
 Le but de ce challenge est de pratiquer la collaboration avec Github :
 
