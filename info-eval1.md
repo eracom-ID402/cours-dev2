@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ℹ️ Evaluations
-permalink: evaluations.html
+title: ℹ️ Evaluation 1
+permalink: evaluation-1.html
 ---
 
 Trois évaluations seront réalisées au courant du semestre. Chaque évaluation portera sur trois aspects:
