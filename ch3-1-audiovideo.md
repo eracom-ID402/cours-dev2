@@ -58,14 +58,11 @@ Voici un exemple de code pour une vidéo Youtube:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68iQAo2XXtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-Ces codes donnent pas un élément `<video>`, mais un élément `<iframe>`. Une iframe est un "cadre" qui permet d'intégrer une page HTML dans la page courante. C'est utilisé par des services comme OpenStreetMap, Google Maps, et beaucoup d'autres services permettant d'intégrer un contenu dans une page web... 
+Dans ce code, la vidéo est chargée de manière indirecte, via un élément `<iframe>`. Une iframe est un "cadre" qui permet d'intégrer une page HTML dans la page courante. C'est utilisé par OpenStreetMap, Google Maps, et beaucoup d'autres services permettant d'intégrer un contenu dans une page web.
 
 ## Vidéo responsive
 
-Techniques pour que le format s'adapte à l'écran.
-
-Voir [https://cours-web.ch/media/video-responsive.html](https://cours-web.ch/media/video-responsive.html)
-
+Techniques pour que le format s'adapte à la taille de l'écran.
 
 ### Rendre la vidéo responsive
 
@@ -83,6 +80,8 @@ Les changements:
 - On a supprimé l'attribut de hauteur (height), et on a appliqué le style CSS `aspect-ratio: 16 / 9`.
 
 Voir [la référence MDN Web Docs sur la propriété aspect-ratio](https://developer.mozilla.org/fr/docs/Web/CSS/aspect-ratio). C'est une propriété CSS récente supportée par les navigateurs depuis 2021.
+
+Voir aussi [https://cours-web.ch/media/video-responsive.html](https://cours-web.ch/media/video-responsive.html)
 
 ***
 
