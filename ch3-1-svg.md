@@ -8,7 +8,8 @@ Un aperçu du format SVG.
 
 # Le format SVG 
 
-SVG est un format d'images vectorielles. Les images vectorielles peuvent être redimensionnées sans perte de qualité.
+SVG est un format d'images vectorielles (le terme signifie : 
+*Scalable Vector Graphics*). Les images vectorielles peuvent être redimensionnées sans perte de qualité.
 
 SVG est une norme développée par le World Wide Web Consortium (W3C) depuis 1999. Il est explicitement conçu pour fonctionner avec d'autres standards du W3C comme CSS.
 
