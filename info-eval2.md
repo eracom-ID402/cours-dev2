@@ -4,7 +4,7 @@ title: ℹ️ Evaluation 2
 permalink: evaluation-2.html
 ---
 
-Information sur l'évaluation du 8 mars 2022.
+Information sur l'évaluation du 8 avril 2022.
 
 Cette 2<sup>ème</sup> évaluation porte sur les éléments suivants:
 
@@ -26,23 +26,45 @@ En suivant ce lien, une copie individuelle du projet sera créée. Ensuite:
 
 Une fois le travail effectué, n'oubliez pas de faire un *push* pour que vos changements soient sur Github.
 
+Points: 3pts
+
 ## 2) Challenges
 
 ### Challenge #4 – Git Push
 
 Publier votre site sur Github, dans [l'organisation ID402](https://github.com/eracom-id402). Etat au 8 avril: Réalisé à 100% par tous les élèves.
 
+Points: 1pt
+
 ### Challenge #5 – Issues
 
 Le but de ce challenge est de pratiquer la collaboration avec Github :
 
-- Définissez deux améliorations à apporter à votre site.
+- Définissez **deux améliorations** à apporter à votre site.
 - Pour chacune, créez une description dans l'onglet Issues (de votre projet Github).
 
 Par la suite, l'une de ces Issues sera résolue par vous-même, l'autre par l'un-e de vos camarades (cela constituera le challenge #6, vous y travaillerez le 6-13 mai).
+
+Points: 2pts
 
 ## 3) Rendu de documentation personnelle
 
 À rendre jusqu'au **14 avril 2022**, par email (envoi de lien, ou de fichier joint). J'évalue les ajouts que vous avez fait depuis le 11 mars - Git, Vidéo, SVG...
 
+Points: 2pts
+
 ***
+
+## Calcul de la note
+
+Lors de l'évaluation du 8 avril 2022, le calcul se faut sur 8 points (3 pour les challenges, 3 pour le test pratique, 2 pour la documentation).
+
+| Points obtenus      | Note |
+|:------------------- |:---- |
+| 8               | 6    |
+| 7               | 5,5  |
+| 6               | 5    |
+| 5,5               | 4,5  |
+| 5               | 4    |
+| 4               | 3,5  |
+| 3               | 3    |
