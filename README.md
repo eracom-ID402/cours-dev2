@@ -49,16 +49,17 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 ### Chapitre 3 : Médias
 
 - [Audio et Video](audio-video.html) (25 mars)
-- SVG, format vectoriel du web (1er avril)
+- [SVG, format vectoriel du web](svg.html) (1er avril)
 
 Le 8 avril aura lieu la deuxième évaluation.
 
-### Chapitre 4 : A11Y
+### Chapitre 4 : Sélecteurs et logique du CSS
 
-Le sigle *A11Y* est une abbréviation pour "[accessibility](https://cours-web.ch/html/accessibilite.html)". Concevoir des sites web, c'est assumer une responsabilité: assurer la lisibilité et l'usabilité pour toute personne voulant accéder au contenu. Pour ne pas créer (involontairement) des barrières techniques, il est important de connaître la nature de ces obstacles et les moyens de les éviter. Nous accorderons une attention particulière aux balises "input" qui doivent permettre les interactions en toutes circonstances.
+Ces cours porteront sur les sélecteurs CSS.
 
-- A11Y (6 mai)
-- Input Forms (13 mai)
+- Sélecteurs (6 mai)
+- Spécificité (13 mai)
+- Generated Content (20 mai)
 
 ### Chapitre 5 : la magie du CSS
 
