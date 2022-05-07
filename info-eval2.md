@@ -57,14 +57,14 @@ Points: 2pts
 
 ## Calcul de la note
 
-Lors de l'évaluation du 8 avril 2022, le calcul se faut sur 8 points (3 pour les challenges, 3 pour le test pratique, 2 pour la documentation).
+Pour cette évaluation, le calcul se fait sur **8 points** (3 pour les challenges, 3 pour le test pratique, 2 pour la documentation).
 
-| Points obtenus      | Note |
-|:------------------- |:---- |
+| Points obtenus  | Note |
+|:--------------- |:---- |
 | 8               | 6    |
 | 7               | 5,5  |
 | 6               | 5    |
-| 5,5               | 4,5  |
+| 5,5             | 4,5  |
 | 5               | 4    |
 | 4               | 3,5  |
 | 3               | 3    |
