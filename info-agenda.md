@@ -28,8 +28,8 @@ Agenda du cours:
 | 27 mai  | *Ascension*     |      |
 |  3 juin | **Evaluation #3**     |                   |
 | 10 juin | CSS Animations    |      |
-| 17 juin | CSS Transforms        |                   |
-| 24 juin | Debrief           |                   |
+| 17 juin | Debrief        |                   |
+| 24 juin | (Workshop)     |                   |
 
 
 

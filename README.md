@@ -67,7 +67,7 @@ Un langage visuel comme CSS est un outil d'expression, qui donne une place à la
 
 - Generated Content (20 mai)
 - CSS Animations (10 juin)
-- CSS Transforms (17 juin)
+- Debrief (17 juin)
 
 Le 3 juin aura lieu la troisième évaluation.
 
