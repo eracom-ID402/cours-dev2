@@ -18,7 +18,7 @@ Sujets attribués :
 | **Specificité** | Samy, Rackel      |
 
 
-Sur les selecteurs level 1 à 3, vous trouverez des indications ici: [Cours Unités CSS](https://cours-web.ch/css/units.html)
+Sur les selecteurs level 1 à 3, vous trouverez des indications ici: [Cours Sélecteurs CSS](https://cours-web.ch/css/selectors.html)
 
 Sur la spécificité: [Spécificité CSS](https://cours-web.ch/css/specificite.html)
 
