@@ -28,7 +28,7 @@ Le [document Figma](https://www.figma.com/file/wC9KWXYMjmjng1pA0Ns2hH/CSS-Select
 
 Le 13 mai, [une fiche-exercice (PDF)](img/selecteurs/selecteurs-css-questions.pdf) est distribuée et réalisée individuellement.
 
-![Fiche-exercice](img/video/selecteurs/selecteurs-css-questions.jpg)
+![Fiche-exercice](img/selecteurs/selecteurs-css-questions.jpg)
 
 Dans la deuxième partie de la leçon: nous revenons à la réalisation de sites. Chaque élève s'attribue une "Issue" d'un autre élève afin de progresser vers la finition du site.
 
