@@ -36,7 +36,7 @@ CSS est un langage en évolution. Depuis 2010, de nombreuses nouvelles fonctions
 - [CSS Grid Layout](grid-layout.html) (11 février)
 - [Grid Layout avancé](grid-advanced.html) (18 février)
 
-Le 4 mars aura lieu une première évaluation.
+Le **4 mars** a lieu une première évaluation.
 
 ### Chapitre 2 : GIT
 
@@ -51,7 +51,7 @@ Vous apprendrez à utiliser un outil devenu incontournable dans les métiers du 
 - [Audio et Video](audio-video.html) (25 mars)
 - [SVG, format vectoriel du web](svg.html) (1er avril)
 
-Le 8 avril aura lieu la deuxième évaluation.
+Le **8 avril** a lieu la deuxième évaluation.
 
 ### Chapitre 4 : Sélecteurs et logique du CSS
 
@@ -59,17 +59,17 @@ Ces cours porteront sur les sélecteurs CSS.
 
 - Sélecteurs (6 mai)
 - Spécificité (13 mai)
-- Generated Content (20 mai)
 
-### Chapitre 5 : la magie du CSS
 
-Un langage visuel comme CSS est un outil d'expression, qui donne une place à la créativité et permet des choix audacieux et novateurs. Nous abordons des modules CSS qui ont pour rôle d'étendre les possibilités créatives: 
+### Chapitre 5 : Finalisation
 
-- Generated Content (20 mai)
-- CSS Animations (10 juin)
-- CSS Transforms (17 juin)
+Les dernières leçons seront consacrées à la finition du travail pratique : 
 
-Le 3 juin aura lieu la troisième évaluation.
+- Travail pratique (20 mai)
+- Travail pratique (3 juin)
+- **Evaluation #3** (10 juin) 
+- Feedbacks (17 juin)
+- À définir (24 juin)
 
 ## Evaluations
 
