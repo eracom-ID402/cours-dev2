@@ -10,7 +10,7 @@ Dans ce cours, nous utilisons un outil en ligne pour vous aider dans l'apprentis
 
 Podsie est un outil pour élèves et enseignant-es, visant à appliquer des méthodes d'apprentissage validées par les sciences de l'éducation. Objectif: vous aider à **mémoriser** les connaissances.
 
-Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est vitale.
+Certes, on peut aujourd'hui se reposer sur les nombreuses ressources en ligne. Mais pour atteindre un niveau professionnel, et travailler vite et sans stress, la mémorisation de nombreuses informations est primordiale.
 
 ### Les stratégies d'apprentissage efficaces
 
@@ -21,9 +21,9 @@ La recherche a mis en évidence deux stratégies très efficaces pour mieux mém
 
 #### Stratégie #1: Retrieval Practice 📤
 
-Plutôt que relire les informations de manière passive, faites ressortir les informations de votre cerveau en faisant **un effort mental**. Le meilleur moyen est de *se questionner*: cela oblige votre 🧠 cerveau à retrouver l'information, ce qui consolide les connexions neurales et renforce la mémorisation.
+Plutôt que relire les informations de manière passive, faites ressortir les informations de votre mémoire en faisant **un effort mental**. Le meilleur moyen est de *se questionner*: cela oblige votre 🧠 cerveau à retrouver l'information, ce qui consolide les connexions neurales et renforce la mémorisation.
 
-Exemple: beaucoup de personnes pensent qu'il est utile de relire un texte plusieurs fois et de le 🖍surligner en plusieurs couleurs. En réalité, cela n'aide pas beaucoup à mémoriser. Il est plus efficace de:
+Exemple: beaucoup de personnes pensent qu'il est utile de relire un texte plusieurs fois et de le 🖍<span surligner en plusieurs couleurs. En réalité, cela n'aide pas beaucoup à mémoriser. Il est plus efficace de:
 
 - 🗒 Se mettre devant une **feuille blanche** et écrire, de mémoire, tout ce dont on se souvient sur un sujet.
 - 🌳 Même chose, mais le faire sous forme de *mindmap* (arborescence).
@@ -39,7 +39,7 @@ Cela oblige votre cerveau à accéder à l'information que vous avez "enregistr�
 - puis 10 jours
 - puis 30 jours. 
 
-Cela suffit pour les faire entrer dans votre mémoire à long terme. L'espacement entre les moments d'apprentissage est important. En anglais, on appelle cette approche *"spaced practice"*.
+Cela aide pour les faire entrer dans votre mémoire à long terme. L'espacement entre les moments d'apprentissage est important. En anglais, on appelle cette approche *"spaced practice"*.
 
 ### Ce que fait Podsie
 
@@ -47,7 +47,7 @@ Voici comment Podsie vous aidera à appliquer ces stratégies.
 
 - L'enseignant·e saisit dans Podsie des questions relatives aux cours, et programme des moments où vous répondrez à ces questions (*Assignments*). Ces questions seront automatiquement ajoutées à votre liste de questions personnelle (*"Personal Deck"*).
 - Pour les questions ⚠️**non-maîtrisées**, Podsie va vous les reposer une fois par jour.
-- Une fois les questions 💪**maîtrisées**, Podsie va vous les reposer à des intervalles plus espacés. L'algorithme définit la fréquence optimale pour faire entrer les informations dans votre mémoire permanente.
+- Une fois les questions 💪**maîtrisées**, Podsie va vous les reposer à des intervalles plus espacés. L'algorithme définit la fréquence optimale pour faire entrer les informations dans votre mémoire permanente 🏆.
 
 Podsie vous aide ainsi à espacer de manière optimale la réactivation, et va vous proposer des questions personnalisées pour vous faire progresser là où vous avez des lacunes.
 
