@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ℹ️ Podsie
+title: ℹ️ – Podsie
 permalink: podsie.html
 ---
 

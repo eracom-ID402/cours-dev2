@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚑 Aide
+title: 🚑 – Aide
 permalink: aide.html
 ---
 

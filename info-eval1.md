@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ℹ️ Evaluation 1
+title: ℹ️ – Evaluation 1
 permalink: evaluation-1.html
 ---
 
