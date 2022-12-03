@@ -1,7 +1,7 @@
 # Développement d’interfaces 2 – CSS
 
-**Dates:** du 28 janvier au 24 juin  
-**Horaire:** vendredi – 14h30 à 16h00 (2 périodes)  
+**Dates:** du 28 janvier au 24 juin 2022  
+**Horaire:** vendredi – 14h30 à 16h00  
 **Classe:** ID402  
 **Acronyme cours:** EEDEV  
 **Catégorie:** Elaboration du design  
