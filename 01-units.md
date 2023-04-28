@@ -43,19 +43,7 @@ Pour aller plus loin (optionnel):
 - [Fonctions CSS : min(), max(), clamp()](clamp.html)
 - Variables CSS
 
-### L'unité pourcentage (%)
 
-Exemple: [https://codepen.io/eracom/pen/YzEWPzE](https://codepen.io/eracom/pen/YzEWPzE?editors=1100)
-
-Référence MDN: [https://developer.mozilla.org/fr/docs/Web/CSS/percentage](https://developer.mozilla.org/fr/docs/Web/CSS/percentage)
-
-⚠️ **À retenir:** pour les longueurs, fonctionne en horizontal, mais pas en vertical.
-
-### Les unités typographiques (em, ex, ch, rem)
-
-Exemple: [https://codepen.io/eracom/pen/GROqpwO](https://codepen.io/eracom/pen/GROqpwO?editors=1000)
-
-⚠️ **À retenir:** le fonctionnement de `em` et `rem`, unités fréquemment utilisées.
 
 ### Les unités relatives au viewport (vw, vh, vmin, vmax)
 
