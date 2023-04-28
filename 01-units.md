@@ -43,23 +43,8 @@ Pour aller plus loin (optionnel):
 - [Fonctions CSS : min(), max(), clamp()](clamp.html)
 - Variables CSS
 
+Les informations sur les unités CSS sont [dans le support de cours général](https://cours-web.ch/css/units.html).
 
-
-### Les unités relatives au viewport (vw, vh, vmin, vmax)
-
-Exemple [https://codepen.io/eracom/pen/LYOZQVB](https://codepen.io/eracom/pen/LYOZQVB?editors=1100)
-
-- Un article d'Ahmad Shadeed: [https://ishadeed.com/article/viewport-units/](https://ishadeed.com/article/viewport-units/), qui donne des exemples d'application.
-
-### Exemple complet:
-
-Un exemple qui combine toutes ces fonctionnalités : [https://codepen.io/eracom/pen/VwrarYa](https://codepen.io/eracom/pen/VwrarYa)
-
-<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="VwrarYa" data-editable="true" data-user="eracom" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/eracom/pen/VwrarYa">
-  Product Page</a> by Manuel Schmalstieg (<a href="https://codepen.io/eracom">@eracom</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
 
 ## Challenge No 2 : Apportez à votre site web des améliorations!
 
