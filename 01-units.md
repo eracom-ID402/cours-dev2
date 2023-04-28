@@ -79,8 +79,3 @@ Vous pouvez utiliser l'un des logiciels suivants:
 
 ⚠️ Votre documentation sera vérifiée et comptera pour le test du 4 mars.
 
-## Ressources
-
-- Documentation MDN: [Valeurs et unités CSS](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/Values_and_units)
-- Documentation Cours-Web.ch: [Unités CSS](https://cours-web.ch/css/units.html)
-- La spécification W3C: [CSS Values and Units Module Level 3](https://drafts.csswg.org/css-values-3/)
